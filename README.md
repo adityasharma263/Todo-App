@@ -1,4 +1,4 @@
-# todo-app
+# Todo-App
 A simple node.js todo app using mongoDB
 
 === To run  this app ===
@@ -8,3 +8,4 @@ A simple node.js todo app using mongoDB
 3. Install all dependencies by run this commond : <code>npm install</code>.
 4. After installation run node server by <code>node server.js</code> command.
 5. Now server runs at http://localhost:3000
+
